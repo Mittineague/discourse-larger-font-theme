@@ -1,1 +1,3 @@
-# discourse-larger-font-theme
+# discourse-larger-font-theme 
+
+Preliminary scss for Discourse
