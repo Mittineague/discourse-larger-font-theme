@@ -1,3 +1,4 @@
+/* General */
 body 
 , body input
 , body textarea
@@ -7,4 +8,27 @@ body
 , .btn
 , .dropdown-menu span.title
 , .user-preferences .instructions
+{ font-size: 1.2em; }
+
+/* Latest */
+.topic-list .main-link 
+{ font-size: 1.2em; }
+
+/* Badges Users Summary*/
+.user-info .user-detail 
+{ font-size: 1.2em; }
+
+/* Groups */
+.groups-table .groups-info .groups-info-title 
+{ font-size: 1.2em; }
+
+/* Tags */
+.tag-box .discourse-tag 
+{ font-size: 1.2em; }
+
+/* Activity */
+.nav-stacked li a 
+, .user-main .user-stream .excerpt
+, .user-main .user-stream .time
+, .user-main .user-stream .delete-info
 { font-size: 1.2em; }
